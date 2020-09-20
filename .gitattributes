@@ -1,2 +1,4 @@
 *.uasset filter=lfs diff=lfs merge=lfs -text
 *.tga filter=lfs diff=lfs merge=lfs -text
+*.ccProject filter=lfs diff=lfs merge=lfs -text
+*.iProject filter=lfs diff=lfs merge=lfs -text
